@@ -6,8 +6,9 @@ A graphical representation of an amusement park, highlighting vibrant lighting e
 
 ## Team Members
 
-
-- [Shufan Shahi](https://github.com/shufanshahi)
-- [Abdullah Al Jubaer Gem](https://github.com/jubaer36)
 - [Md. Mosharrifur Rahaman Ratul]()
+- [Abdullah Al Jubaer Gem](https://github.com/jubaer36)
+- [Shufan Shahi](https://github.com/shufanshahi)
+
+
 
